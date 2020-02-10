@@ -7,6 +7,9 @@
 
 </head>
 <body>
+<div id="msg">
 you are not eligible
+</div>
+
 </body>
 </html>

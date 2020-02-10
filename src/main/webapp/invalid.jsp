@@ -7,6 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
+<div id="msg">
 invalid pan number
+</div>
+<a href="/CreditScore">Click here to enter again</a>
 </body>
 </html>

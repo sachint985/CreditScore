@@ -7,6 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-you are eligible
+<div id="msg">
+	you are eligible
+</div>
+
 </body>
 </html>
